@@ -25,7 +25,7 @@ const VenueNfo = () => {
                      Event Date & Time
                     </div>
                     <div className="vn_desc">
-                       11 Jan 2019 @06:00 pm
+                       11 Sep 2019 @06:00 pm
                     </div>
                  </div>
                </div>
@@ -49,7 +49,7 @@ const VenueNfo = () => {
                      Event Location
                     </div>
                     <div className="vn_desc">
-                       New Delhi
+                       Ansal Plaza, New Delhi
                     </div>
                  </div>
                </div>

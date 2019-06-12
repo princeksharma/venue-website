@@ -7,12 +7,9 @@ const Description = () => {
       <div className="center_wrapper">
         <h2>Highlights</h2>
         <div className="highlight_description">
-          fjlafnjJKFKBKFBIBGKkjbkgjbgkjNKJGebgkEKGKJBGKJBSKJGBkjbjgkbsgkjbsjkbgkjs
-          dgnjbsGSBGJegngnBGulebgiGBSGBskj;gdskjgbzdkjbdjbguBSGJKsbgjSBUGOBugbskjbgsbg
-          ESGsgubESUGESJOGBuosgj;ngljBGUhewugbdjlgnd;ogbESUO;GJGJngoENGOUBUOGbwg;ngljBGUhewugbdjlgndebgoBSUOGB
-          eguobuobuogjng;jlGNZLJNGLJSGNOsugnjosngKLJGNsng;ouGNOesnglsjNGLJNGOns
-          gbSBGOUbsgjBSE;GJBESN;GJObngj;SNJGNSJGONesjogbJOSBGUObeuogN;GJLn;ejogbUOSBG'og
-          ejbguOBUOGuogbS;JGNlgnljgnuOBGOJG DJlGeingiEOGNOejsgnsklJGNlmsngkGUrhgoUGJO
+          Musical Venue Concert live perform by American Singer Ariana Grande live at 
+          Ansal plaza near South Ex.Ariana Grande-Butera is an American singer, 
+          songwriter, and actress.
         </div>
       </div>
     </Fade>

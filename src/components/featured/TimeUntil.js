@@ -4,7 +4,7 @@ import Slide from 'react-reveal/Slide';
 class TimeUntil extends Component {
 
   state = {
-    deadLine: 'Jan, 11, 2019',
+    deadLine: 'Sep, 11, 2019',
     days:'0',
     hours:'0',
     minutes:'0',

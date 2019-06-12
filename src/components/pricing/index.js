@@ -7,8 +7,8 @@ class Pricing extends Component {
    prices: [100,150,250],
    positions:['Balcony','Medium','Star'],
    desc:[
-      'dafsfaegfgsgjJKSBGKSGKHksgkjsbgkjsBGKJBSGKBSKGBSKBGKSbg','hGHFByfbYBFHFYFGYvfhvfhFfsfsegsgsggSGsgs',
-      'fGFJFVJvjfvhfvHJFBhfbhfh'
+      'Bronze','Silver',
+      'Gold'
    ],
    linkto:['http://sales/b','http://sales/m','http://sales/s']
  }
